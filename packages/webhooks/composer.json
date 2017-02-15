@@ -1,0 +1,10 @@
+{
+  "name": "ps92/webhooks",
+  "description": "The package for the internal stats",
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.6.4",
+    "guzzlehttp/guzzle": "^6.2"
+  }
+}
