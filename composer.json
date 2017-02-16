@@ -11,5 +11,10 @@
             "name": "Prateek Shankar",
             "email": "ps92@live.in"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Prateek\\Webhooks\\": "packages/webhooks/src/"
+        }
+    }
 }
