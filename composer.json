@@ -1,0 +1,15 @@
+{
+    "name": "prateek/webhook",
+    "description": "A webhook package to provide a one liner call to send the data a specified URL.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "6.2.2"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Prateek Shankar",
+            "email": "ps92@live.in"
+        }
+    ]
+}
